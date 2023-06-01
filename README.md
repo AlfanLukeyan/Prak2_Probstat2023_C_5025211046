@@ -1,7 +1,7 @@
 # Praktikum Probabilitas dan Statistik - Modul 2
-# Distribusi Probabilitas 
+*Estimasi Parameter, Uji Hipotesis, dan ANOVA*
 
-## Penulis
+# Penulis
 
 |   Alfan Lukeyan Rizki   | 5025211046 |    Probabilitas dan statistik (C)    |
 | :---------------------: | :--------: | :----------------------------------: |
